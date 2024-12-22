@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating a common error involving pointers. The program initializes an integer variable and then modifies its value through a pointer. The bug is explained in detail, and a corrected version is provided.
